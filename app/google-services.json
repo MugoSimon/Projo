@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "222591075803",
+    "firebase_url": "https://projo-d997e.firebaseio.com",
+    "project_id": "projo-d997e",
+    "storage_bucket": "projo-d997e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222591075803:android:01f276c51c8d6f9e6293fe",
+        "android_client_info": {
+          "package_name": "lastie_wangechian_Projo.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222591075803-t3i3pk1n8g0pb1mkdtm35csnp74jjf3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lastie_wangechian_Projo.com",
+            "certificate_hash": "19d363457bef432684818f776235f6d31b3d74a8"
+          }
+        },
+        {
+          "client_id": "222591075803-qnvnqf1ntbqde0jm5ir2o7k4ga4o8av1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRAAbYMD0bsTf_ZrhXeoZnffhK93fJczk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222591075803-qnvnqf1ntbqde0jm5ir2o7k4ga4o8av1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
